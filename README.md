@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
 
-This repository contains the material (notebooks, data) for the pandas tutorial. Tutorial derived from: [releases page](https://github.com/jorisvandenbossche/pandas-tutorial/releases).
+This repository contains the material (notebooks, data) for the pandas tutorial. Tutorial derived from Joris Van den Bossche: [releases page](https://github.com/jorisvandenbossche/pandas-tutorial/releases).
 
 ## Requirements to run this tutorial
 
