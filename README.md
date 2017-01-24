@@ -1,6 +1,8 @@
-# EuroScipy 2016 Pandas Tutorial
+# Pandas Tutorial
 
-This repository contains the material (notebooks, data) for the pandas tutorial at EuroScipy 2016. For previous versions of the tutorial (EuroScipy 2015), see the [releases page](https://github.com/jorisvandenbossche/pandas-tutorial/releases).
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
+
+This repository contains the material (notebooks, data) for the pandas tutorial. Tutorial derived from: [releases page](https://github.com/jorisvandenbossche/pandas-tutorial/releases).
 
 ## Requirements to run this tutorial
 
