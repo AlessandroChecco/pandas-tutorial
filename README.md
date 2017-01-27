@@ -32,14 +32,13 @@ as you have the above packages installed.
 
 If you have git installed, you can get the material in this tutorial by cloning this repo:
 
-    git clone https://github.com/jorisvandenbossche/pandas-tutorial.git
+    git clone https://github.com/AlessandroChecco/pandas-tutorial.git
 
 As an alternative, you can download it as a zip file:
-https://github.com/jorisvandenbossche/pandas-tutorial/archive/master.zip.
+https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
 I will probably make some changes until the start of the tutorial, so best to download
 the latest version then (or do a `git pull` if you are using git).
 
-Two data files are not included in the repo, you can download them from: [`titles.csv`](https://drive.google.com/open?id=0B3G70MlBnCgKajNMa1pfSzN6Q3M) and [`cast.csv`](https://drive.google.com/open?id=0B3G70MlBnCgKal9UYTJSR2ZhSW8) and put them in the `/data` folder.
 
 ## Content
 
