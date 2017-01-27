@@ -43,7 +43,7 @@ Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative ve
 
 Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
 
-### 4. Alternative method #3 (zero requirements!)
+### 4. Alternative method #3 (zero requirements! It might be down...)
 
 Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
 
@@ -55,8 +55,7 @@ If you have git installed, you can get the material in this tutorial by cloning 
 
 As an alternative, you can download it as a zip file:
 https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
-I will probably make some changes until the start of the tutorial, so best to download
-the latest version then (or do a `git pull` if you are using git).
+
 
 
 ## Content (no interaction)
