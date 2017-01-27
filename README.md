@@ -6,7 +6,7 @@ This repository contains the material (notebooks, data) for the pandas tutorial.
 
 ## Requirements to run this tutorial
 
-1. Preferred method (faster but harder to install)
+### 1. Preferred method (faster but harder to install)
 
 You will need to install [jupyter](http://jupyter.readthedocs.io/en/latest/install.html).
 To follow this tutorial you need to have the following packages installed:
@@ -30,15 +30,15 @@ conda install pandas jupyter seaborn
 But of course, using another distribution (e.g. Enthought Canopy) or pip is good as well, as long
 as you have the above packages installed.
 
-2. Alternative method (nothing to install, it needs student account and eduroam/internal connection)
+### 2. Alternative method (nothing to install, it needs student account and eduroam/internal connection)
 
 Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks (in jupyterhub folder).
 
-3. Alternative method #2 (it required a google account)
+### 3. Alternative method #2 (it required a google account)
 
 Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
 
-4. Alternative method #3 (zero requirements!)
+### 4. Alternative method #3 (zero requirements!)
 
 Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
 
@@ -54,7 +54,7 @@ I will probably make some changes until the start of the tutorial, so best to do
 the latest version then (or do a `git pull` if you are using git).
 
 
-## Content
+## Content (no interaction)
 
 To view the content on nbviewer:
 
