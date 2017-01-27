@@ -56,7 +56,7 @@ the latest version then (or do a `git pull` if you are using git).
 
 ## Content (no interaction)
 
-To view the content on nbviewer:
+If nothing else works you can still look at the documents. To view the content on nbviewer:
 
 - [01 - Basics](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%201.ipynb)
 - [02 - Indexing and Groupby](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%202.ipynb)
