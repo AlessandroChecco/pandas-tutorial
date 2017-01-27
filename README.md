@@ -22,7 +22,7 @@ I recommend to use the [conda](http://conda.pydata.org/docs/intro.html) environm
 (you can install [miniconda](http://conda.pydata.org/miniconda.html) or install the (very large) Anaconda software
 distribution, found at http://continuum.io/downloads).
 
-Once this is installed, the following command will install all required packages in your Python environment (optional):
+Once this is installed, the following command will install all required packages in your Python environment:
 ```
 conda install pandas jupyter seaborn
 ```
