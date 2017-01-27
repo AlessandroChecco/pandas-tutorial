@@ -30,11 +30,11 @@ conda install pandas jupyter seaborn
 But of course, using another distribution (e.g. Enthought Canopy) or pip is good as well, as long
 as you have the above packages installed.
 
-### 2. Alternative method (nothing to install, it needs student account and eduroam/internal connection)
+### 2. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
 
 Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks (in jupyterhub folder).
 
-### 3. Alternative method #2 (it required a google account)
+### 3. Alternative method #2 (it requires a google account)
 
 Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
 
