@@ -1,1 +1,0 @@
-data_stacked = data_stacked.reset_index(name='BETR801')
