@@ -45,6 +45,6 @@ Two data files are not included in the repo, you can download them from: [`title
 
 To view the content on nbviewer:
 
-- [01 - Introduction](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/01%20-%20Introduction.ipynb)
-- [02 - Data structures](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/02%20-%20Data%20structures.ipynb)
-- [03 - Time series](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/03%20-%20Indexing%20and%20selecting%20data.ipynb)
+- [01 - Basics](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%201.ipynb)
+- [02 - Indexing and Groupby](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%202.ipynb)
+- [03 - Time series](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%203.ipynb)
