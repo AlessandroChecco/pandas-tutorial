@@ -6,6 +6,9 @@ This repository contains the material (notebooks, data) for the pandas tutorial.
 
 ## Requirements to run this tutorial
 
+### Preferred method (compute fast, local but hard)
+
+You will need to install [jupyter](http://jupyter.readthedocs.io/en/latest/install.html).
 To follow this tutorial you need to have the following packages installed:
 
 - Python version 2.6-2.7 or 3.3-3.5
@@ -19,7 +22,7 @@ I recommend to use the [conda](http://conda.pydata.org/docs/intro.html) environm
 (you can install [miniconda](http://conda.pydata.org/miniconda.html) or install the (very large) Anaconda software
 distribution, found at http://continuum.io/downloads).
 
-Once this is installed, the following command will install all required packages in your Python environment:
+Once this is installed, the following command will install all required packages in your Python environment (optional):
 ```
 conda install pandas jupyter seaborn
 ```
@@ -27,6 +30,13 @@ conda install pandas jupyter seaborn
 But of course, using another distribution (e.g. Enthought Canopy) or pip is good as well, as long
 as you have the above packages installed.
 
+### Alternative method (nothing to install, it needs student account and eduroam/internal connection)
+
+Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks (in jupyterhub folder).
+
+### Alternative method #2 (it required a google account)
+
+Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
 
 ## Downloading the tutorial materials
 
