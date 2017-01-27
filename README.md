@@ -32,7 +32,12 @@ as you have the above packages installed.
 
 ### 2. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
 
-Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks (in jupyterhub folder).
+Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks:
+
+1. New/Terminal
+2. Execute `wget https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip`
+3. Close the tab
+4. Click on pandas-tutorial folder and launch JupyterHub notebooks
 
 ### 3. Alternative method #2 (it requires a google account)
 
