@@ -19,9 +19,7 @@ If you have a laptop, I would suggest to go to section 2 and install the softwar
 (you can install [miniconda](http://conda.pydata.org/miniconda.html) or install the (very large) Anaconda software
 distribution, found at http://continuum.io/downloads).
 2. The following command will install all required packages in your Python environment:
-```
-conda install pandas jupyter seaborn
-```
+`conda install pandas jupyter seaborn`
 3. Git clone this repository, or alternatively download and extract this file https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
 
 #### 2b. Other environments
