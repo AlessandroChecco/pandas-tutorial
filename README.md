@@ -23,7 +23,7 @@ distribution, found at http://continuum.io/downloads).
 conda install pandas jupyter seaborn
 ```
 
-#### Other environments
+#### 2b. Other environments
 
 If you want to use other environment: you will need to install [jupyter](http://jupyter.readthedocs.io/en/latest/install.html).
 To follow this tutorial you need to have the following packages installed:
@@ -35,15 +35,15 @@ To follow this tutorial you need to have the following packages installed:
 - `ipython` version 3.x with notebook support, or `ipython 4.x` combined with `jupyter`: http://ipython.org
 - `seaborn` (this is used for some plotting, but not necessary to follow the tutorial): http://stanford.edu/~mwaskom/software/seaborn/
 
-#### 2b. Alternative method (zero requirements! But it might be down...)
+#### 2c. Alternative method (zero requirements! But it might be down...)
 
 Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
 
-#### 2c. Alternative method (it requires a google account)
+#### 2d. Alternative method (it requires a google account)
 
 Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
 
-#### 2d. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
+#### 2e. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
 
 Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks:
 
