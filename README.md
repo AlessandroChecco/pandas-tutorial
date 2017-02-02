@@ -22,6 +22,7 @@ distribution, found at http://continuum.io/downloads).
 ```
 conda install pandas jupyter seaborn
 ```
+3. Git clone this repository, or alternatively download and extract this file https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
 
 #### 2b. Other environments
 
@@ -41,7 +42,8 @@ Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org
 
 #### 2d. Alternative method (it requires a google account)
 
-Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
+1. Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
+2. Download and extract this file https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
 
 #### 2e. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
 
@@ -49,8 +51,9 @@ Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative ve
 
 1. New/Terminal
 2. Execute `wget https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip`
-3. Close the tab
-4. Click on pandas-tutorial folder and launch JupyterHub notebooks (ipynb files marked with jupyterhub name).
+3. Execute `unzip master.zip`
+4. Close the tab
+5. Click on pandas-tutorial folder and launch JupyterHub notebooks (ipynb files marked with jupyterhub name).
 
 ## Content (no interaction)
 
