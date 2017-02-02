@@ -4,7 +4,16 @@ This repository contains the material (notebooks, data) for the pandas tutorial.
 
 ## Requirements to run this tutorial
 
-### 1. Preferred method (faster but harder to install)
+If you have a laptop, I would suggest to go to section 2 and install the software on your laptop, otherwise from the computer in the classroom please follow section 1.
+
+### 1. From the lab computer (It requires a student account)
+
+1. Log in with your account.
+2. Download and extract this file https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
+3. Copy the just exctracted folder "pandas-tutorial" in drive U:
+4. From the start menu execute Jupyter Notebook
+
+### 2. From your laptop
 
 You will need to install [jupyter](http://jupyter.readthedocs.io/en/latest/install.html).
 To follow this tutorial you need to have the following packages installed:
@@ -25,36 +34,23 @@ Once this is installed, the following command will install all required packages
 conda install pandas jupyter seaborn
 ```
 
-But of course, using another distribution (e.g. Enthought Canopy) or pip is good as well, as long
-as you have the above packages installed.
 
-### 2. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
+#### 2b. Alternative method (zero requirements! But it might be down...)
+
+Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
+
+#### 2c. Alternative method (it requires a google account)
+
+Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
+
+#### 2d. Alternative method (nothing to install, it needs a student account and eduroam/internal connection)
 
 Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative version of the notebooks:
 
 1. New/Terminal
 2. Execute `wget https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip`
 3. Close the tab
-4. Click on pandas-tutorial folder and launch JupyterHub notebooks
-
-### 3. Alternative method #2 (it requires a google account)
-
-Install [CoLaboratory](http://colaboratory.jupyter.org/welcome/) and upload there the main files. It requires google drive.
-
-### 4. Alternative method #3 (zero requirements! It might be down...)
-
-Try to click here [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/alessandrochecco/pandas-tutorial)
-
-## Downloading the tutorial materials (needed for methods 1, 2 and 3)
-
-If you have git installed, you can get the material in this tutorial by cloning this repo:
-
-    git clone https://github.com/AlessandroChecco/pandas-tutorial.git
-
-As an alternative, you can download it as a zip file:
-https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
-
-
+4. Click on pandas-tutorial folder and launch JupyterHub notebooks (ipynb files marked with jupyterhub name).
 
 ## Content (no interaction)
 
