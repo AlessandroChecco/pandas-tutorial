@@ -10,7 +10,7 @@ If you have a laptop, I would suggest to go to section 2 and install the softwar
 
 1. Log in with your account.
 2. Download and extract this file https://github.com/AlessandroChecco/pandas-tutorial/archive/master.zip.
-3. Copy the just exctracted folder "pandas-tutorial" in drive U:
+3. Copy the just extracted folder "pandas-tutorial" in drive U:
 4. From the start menu execute Jupyter Notebook
 
 ### 2. From your laptop
