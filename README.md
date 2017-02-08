@@ -1,4 +1,4 @@
-# Pandas Tutorial - [goo.gl/BPYJhp](goo.gl/BPYJhp)
+# Pandas Tutorial - [goo.gl/BPYJhp](http://goo.gl/BPYJhp)
 
 This repository contains the material (notebooks, data) for the pandas tutorial. Tutorial derived from Joris Van den Bossche: [releases page](https://github.com/jorisvandenbossche/pandas-tutorial/releases).
 
