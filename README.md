@@ -59,6 +59,6 @@ Try [JupyterHub](https://jupyter.shef.ac.uk) and upload there the alternative ve
 If nothing else works you can still look at the documents. To view the content on nbviewer:
 
 1. [Introduction](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Introduction.ipynb)
-2. [Basics](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%201%20(solved).ipynb)
+2. [Basics](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%201.ipynb)
 3. [Indexing and Groupby](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%202.ipynb)
 4. [Time series](https://github.com/AlessandroChecco/pandas-tutorial/blob/master/Pandas%20tutorial%20-%20part%203.ipynb)
